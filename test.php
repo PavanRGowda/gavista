@@ -6,4 +6,5 @@ $z;
 $p;
 $q;
 echo $i + $j ; 
+echo "hello world";
 ?>
